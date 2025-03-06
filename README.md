@@ -45,8 +45,7 @@ After years of working with **performance metrics, training methodologies, and s
 
 ### **📊 Data & Analysis Tools**
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=diegovinicius-dev&show_icons=true&theme=synthwave" alt="GitHub Stats" height="150px">
-   <img src="https://streak-stats.demolab.com?user=diegovinicius-dev&theme=synthwave" alt="GitHub Streak" height="150px">
+   <img src="https://img.shields.io/badge/Jamovi-004C8F?style=for-the-badge&logo=jamovi&logoColor=white" />
 </p>
 
 ---
@@ -72,8 +71,7 @@ After years of working with **performance metrics, training methodologies, and s
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=diegovinicius-dev&theme=synthwave" alt="GitHub Streak" height="150px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diegovinicius-dev&theme=synthwave" alt="GitHub Streak" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegovinicius-dev&show_icons=true&theme=synthwave" alt="GitHub Stats" height="150px">
 </p>
 
 ---
