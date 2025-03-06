@@ -72,7 +72,7 @@ After years of working with **performance metrics, training methodologies, and s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diegovinicius-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diegovinicius-dev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegovinicius-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px">
 </p>
 
 ---
