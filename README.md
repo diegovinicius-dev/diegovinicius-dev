@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Diego Vinícius Duarte Cavalcante</h1>
+<h1 align="center">Diego Vinícius Duarte Cavalcante</h1>
 
 <p align="center">
    <strong>🏋️ From Sports Science to Software Development 🖥️</strong>
@@ -24,20 +24,30 @@ After years of working with **performance metrics, training methodologies, and s
 
 ## 🔧 Tech Stack & Tools 
 
+### **🌟 Core Technologies**
 <p align="left">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-📌 **Currently Learning:**  
-- **Spring Boot (Spring Data, Spring Security)**
-- **Golang**
-- **Docker & CI/CD**
-- **React & Frontend Technologies** (Future Goal)
+### **📚 Currently Learning**
+<p align="left">
+   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+   <img src="https://img.shields.io/badge/CI%2FCD-555555?style=for-the-badge&logo=github-actions&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### **📊 Data & Analysis Tools**
+<p align="left">
+   <img src="https://img.shields.io/badge/Jamovi-004C8F?style=for-the-badge&logo=jamovi&logoColor=white" />
+</p>
 
 ---
 
@@ -47,6 +57,15 @@ After years of working with **performance metrics, training methodologies, and s
 - 🎓 **Bachelor's in Physical Education** *(Training Science & Sports Performance)*
 - 🏋️ **Former Strength & Conditioning Coach** *(Performance Monitoring & Data Analysis)*
 - 🛠️ **Now: Building APIs & Optimizing Backend Systems**
+
+---
+
+## 📌 Current Project 
+
+🚀 **TechRun** – Backend-focused SaaS for personalized running training  
+🔹 **Developed with:** Java, Spring Boot, PostgreSQL  
+🔹 **Features:** Training zones, physiological calculations, API for future AI integrations  
+🔹 **Status:** In development  
 
 ---
 
