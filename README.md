@@ -73,6 +73,7 @@ After years of working with **performance metrics, training methodologies, and s
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=diegovinicius-dev&theme=synthwave" alt="GitHub Streak" height="150px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diegovinicius-dev&theme=synthwave" alt="GitHub Streak" height="150px">
 </p>
 
 ---
