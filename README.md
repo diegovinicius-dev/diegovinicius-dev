@@ -49,7 +49,7 @@ After years of working with **performance metrics, training methodologies, and s
 ### **📊 Data & Analysis Tools**
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jamovi_logo.svg/1200px-Jamovi_logo.svg.png" alt="Jamovi" width="20" height="20"/>
+  <img src="https://www.jamovi.org/images/jamovi-logo.png" alt="Jamovi" width="20" height="20"/>
 </p>
 
 ---
