@@ -1,13 +1,13 @@
 <h1 align="center">Diego Vinícius Duarte Cavalcante</h1>
 
 <p align="center">
-   <strong>🏋️ From Sports Science to Software Development 🖥️</strong>
+  <strong>🏋️ From Sports Science to Software Development 🖥️</strong>
 </p>
 
 <p align="center">
-   <a href="https://github.com/diegovinicius-dev"><img src="https://img.shields.io/github/followers/diegovinicius-dev?label=GitHub&style=social"></a>
-   <a href="https://www.linkedin.com/in/diego-cavalcante-tech/"><img src="https://img.shields.io/badge/LinkedIn-diego--cavalcante--tech-blue?style=flat&logo=linkedin"></a>
-   <a href="mailto:diegocavalcante.tech@gmail.com"><img src="https://img.shields.io/badge/Email-diegocavalcante.tech%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/diegovinicius-dev"><img src="https://img.shields.io/github/followers/diegovinicius-dev?label=GitHub&style=social"></a>
+  <a href="https://www.linkedin.com/in/diego-cavalcante-tech/"><img src="https://img.shields.io/badge/LinkedIn-diego--cavalcante--tech-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:diegocavalcante.tech@gmail.com"><img src="https://img.shields.io/badge/Email-diegocavalcante.tech%40gmail.com-red?style=flat&logo=gmail"></a>
 </p>
 
 ---
@@ -25,27 +25,31 @@ After years of working with **performance metrics, training methodologies, and s
 ## 🔧 Tech Stack & Tools 
 
 ### **🌟 Core Technologies**
+
 <p align="left">
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
 </p>
 
 ### **📚 Currently Learning**
+
 <p align="left">
-   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Security" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
 </p>
 
 ### **📊 Data & Analysis Tools**
+
 <p align="left">
-   <img src="https://img.shields.io/badge/Jamovi-004C8F?style=for-the-badge&logo=jamovi&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jamovi_logo.svg/1200px-Jamovi_logo.svg.png" alt="Jamovi" width="20" height="20"/>
 </p>
 
 ---
@@ -83,6 +87,7 @@ After years of working with **performance metrics, training methodologies, and s
 💻 **GitHub:** [diegovinicius-dev](https://github.com/diegovinicius-dev)  
 
 🚀 **Always open to discussions about backend development, performance optimization, and new tech trends!**
+
 
 
 <!---
