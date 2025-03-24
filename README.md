@@ -14,11 +14,11 @@
 
 ## 🏆 About Me 
 
-Hello there! I'm **Diego Cavalcante**, a **Backend Developer in transition**, with a solid background in **sports science, biomechanics, and data analysis**. 
+# Hello there! I'm Diego Cavalcante, a Mobile Developer in transition, with a solid background in sports science, biomechanics, and data analysis.
 
-After years of working with **performance metrics, training methodologies, and statistical analysis**, I decided to apply my analytical mindset to software development. Now, I’m building my career in **Backend Engineering**, focusing on **Java, Spring Boot, and database management**.
+After years of working with performance metrics, training methodologies, and statistical analysis, I decided to apply my analytical mindset to software development. Now, I’m building my career in **Android Development**, focusing on **Kotlin**, **Android Studio**, and mobile app architecture.
 
-💡 **My goal?** Build high-performance APIs, optimize backend systems, and eventually dive into **Fullstack Development**.
+💡 **My goal?** Build efficient, scalable mobile applications, focus on **Android development** with **Kotlin**, and eventually expand my knowledge to **iOS** development.
 
 ---
 
