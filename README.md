@@ -14,7 +14,7 @@
 
 ## 🏆 About Me 
 
-# Hello there! I'm Diego Cavalcante, a Mobile Developer in transition, with a solid background in sports science, biomechanics, and data analysis.
+### Hello there! I'm Diego Cavalcante, a Mobile Developer in transition, with a solid background in sports science, biomechanics, and data analysis.
 
 After years of working with performance metrics, training methodologies, and statistical analysis, I decided to apply my analytical mindset to software development. Now, I’m building my career in **Android Development**, focusing on **Kotlin**, **Android Studio**, and mobile app architecture.
 
