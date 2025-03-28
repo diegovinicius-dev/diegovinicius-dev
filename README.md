@@ -1,7 +1,7 @@
 <h1 align="center">Diego Vinícius Duarte Cavalcante</h1>
 
 <p align="center">
-  <strong>🏋️ From Sports Science to Software Development 🖥️</strong>
+  <strong>📱 Android Developer | Kotlin Enthusiast | From Sports Science to Code</strong>
 </p>
 
 <p align="center">
@@ -24,26 +24,30 @@ After years of working with performance metrics, training methodologies, and sta
 
 ## 🔧 Tech Stack & Tools 
 
-### **🌟 Core Technologies**
+### 🧩 Core Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" height="35" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35" height="35" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" alt="Java"/>
+</p>
+
+### 🛠 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35" height="35" alt="Android Studio"/>
 </p>
 
 ### **📚 Currently Learning**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Security" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/>
 </p>
 
 ### **📊 Data & Analysis Tools**
@@ -54,21 +58,22 @@ After years of working with performance metrics, training methodologies, and sta
 
 ---
 
-## 🎯 My Journey 
+## 🚀 Projects
 
-- 🏅 **MSc in Science & Technology in Health** *(Biomechanics & Performance Analytics)*
-- 🎓 **Bachelor's in Physical Education** *(Training Science & Sports Performance)*
-- 🏋️ **Former Strength & Conditioning Coach** *(Performance Monitoring & Data Analysis)*
-- 🛠️ **Now: Building APIs & Optimizing Backend Systems**
+### 📱 **TechRun Mobile (coming soon)**
+> Android app for runners: performance assessment, training zones, and personalized tracking.  
+> **Stack:** Kotlin, Jetpack Compose, MVVM
+
+### 🔧 **Mini Projects & Learning Apps**
+> Small apps for learning: to-do list, converters, pace calculators, and more — available on my GitHub. 
 
 ---
 
-## 📌 Current Project 
+## 🎓 Academic Background
 
-🚀 **TechRun** – Backend-focused SaaS for personalized running training  
-🔹 **Developed with:** Java, Spring Boot, PostgreSQL  
-🔹 **Features:** Training zones, physiological calculations, API for future AI integrations  
-🔹 **Status:** In development  
+- 🎓 **M.Sc. in Science & Technology in Health** – Biomechanics & Performance Analysis  
+- 🎓 **Bachelor’s in Physical Education** – Training Science & Sports Performance  
+- 👨‍🏫 **Former University Lecturer & Strength Coach**
 
 ---
 
@@ -86,7 +91,7 @@ After years of working with performance metrics, training methodologies, and sta
 📧 **Email:** [diegocavalcante.tech@gmail.com](mailto:diegocavalcante.tech@gmail.com)  
 💻 **GitHub:** [diegovinicius-dev](https://github.com/diegovinicius-dev)  
 
-🚀 **Always open to discussions about backend development, performance optimization, and new tech trends!**
+🚀 *Open to opportunities as a Junior Android Developer. I love learning, clean code, and meaningful projects.*
 
 
 
